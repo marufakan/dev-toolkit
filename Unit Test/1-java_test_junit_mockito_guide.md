@@ -138,5 +138,3 @@ public class UserServiceTest {
 - **assertEquals(expected, actual)** → Beklenen sonuçla, gelen sonuç eşleşiyor mu?
 
 ---
-
-Hazırsan bir mini proje örneğiyle birlikte testleri uygulamalı yapabiliriz 🎯
